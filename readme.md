@@ -14,9 +14,9 @@
 
 Newest social app around
 Built with:
-*Node.js API
-*MongoDB
-*express
-*React.js
-*Redux
-*Bootstrap
+  *Node.js API
+  *MongoDB
+  *express
+  *React.js
+  *Redux
+  *Bootstrap
